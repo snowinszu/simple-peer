@@ -1,4 +1,4 @@
-# simple-peer [![travis][travis-image]][travis-url] [![npm][npm-image]][npm-url] [![downloads][downloads-image]][downloads-url] [![javascript style guide][standard-image]][standard-url]
+
 
 [travis-image]: https://img.shields.io/travis/feross/simple-peer/master.svg
 [travis-url]: https://travis-ci.org/feross/simple-peer
